@@ -1,0 +1,10 @@
+development:
+  adapter: async
+
+test:
+  adapter: async
+
+production:
+  adapter: redis
+  url:  redis://redistogo:650bef77d717fbb349a42051ae136735@soldierfish.redistogo.com:11788/
+  channel_prefix: Yalla-Notlop_production
