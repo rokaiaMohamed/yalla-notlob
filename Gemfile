@@ -7,7 +7,7 @@ end
 
 # gem 'mysql2', '>= 0.3.18', '< 0.5'
 gem 'will_paginate', '~> 3.1', '>= 3.1.6'
-gem 'will_paginate-bootstrap', '~> 1.0', '>= 1.0.1'
+#gem 'will_paginate-bootstrap', '~> 1.0', '>= 1.0.1'
 
 gem 'omniauth-facebook'
 gem "omniauth-google-oauth2"
@@ -50,7 +50,7 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'devise'
 gem "paperclip", "~> 5.2.1"
-gem 'bootstrap', '~> 4.0.0'
+#gem 'bootstrap', '~> 4.0.0'
 gem 'autoprefixer-rails'
 gem 'jquery-rails'
 
